@@ -10,6 +10,8 @@ Created pipeline
 Linked github url with jenkins
 In repo, add webhook to automatically trigger changes.
 Poll SCM * * * * *
-Enable email notification (SMTP)
 Two step verification in gmail account.
+Enable email notification (SMTP)
+Test configuration
 Build now
+Email sent
